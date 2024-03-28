@@ -1,0 +1,3 @@
+Es importanta cambiar la ruta de la ubicacion de la base de datos
+"Registro" para evitar errores al momento de inicar.
+linea de codigo {dim con as new oledbconnection(NUEVA RUTA)}
